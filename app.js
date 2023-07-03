@@ -37,7 +37,7 @@ class Queen {
     nQueen = async () => {
         Board = 0;
         this.position[`${Board}`] = {};
-        numberbox.disabled = true;
+        numberbox.disabled = false;
         await q.solveQueen(Board, 0, n);
         await q.clearColor(Board);
         numberbox.disabled = false;
