@@ -1,4 +1,5 @@
-N-Queen Visualizer
+#N-Queen Visualizer
+
 The N-Queen Visualizer project is a web application that allows users to visualize solutions to the N-Queen problem using HTML, CSS, and JavaScript. The application provides an interactive interface that displays the chessboard and the queens' positions for a given solution.
 
 Features
