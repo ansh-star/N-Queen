@@ -30,7 +30,7 @@ If you wish to customize the appearance or behavior of the N-Queen Visualizer, y
 
 **index.html**: Defines the structure and layout of the web page.                                                              
 **style.css**: Contains the styles and layout properties.        
-**script.js**: Implements the interactive functionality and N-Queen solution generation.
+**app.js**: Implements the interactive functionality and N-Queen solution generation.
 Feel free to modify these files to suit your needs and preferences.
 
 # Contributing
