@@ -36,4 +36,10 @@ Feel free to modify these files to suit your needs and preferences.
 # Contributing
 Contributions to this project are welcome. If you find a bug or want to suggest an improvement, please open an issue or submit a pull request with your changes.
 
+![image](https://github.com/ansh-star/N-Queen/assets/96314656/bbf17fbd-8626-4390-81d2-366ace5cb25d)
+![image](https://github.com/ansh-star/N-Queen/assets/96314656/d6afcfaa-5949-4115-915d-c2e597a913e4)
+
+![image](https://github.com/ansh-star/N-Queen/assets/96314656/8bf51670-3cd6-4ee6-8fa0-371ae0676536)
+
+
 
